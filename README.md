@@ -1,1 +1,1 @@
-# pvdenis
+# pvdenis - учебный проект
